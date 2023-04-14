@@ -6,13 +6,12 @@
 * Search bar (Text field, Button)
 * Text field
 * Paragraph
-* Header (Search bar, Navigation menu)
+* Header (Search bar, Paragraph)
 * Body (Product card, Paragraph)
 * Signup form (Label, Text field, Button)
 * Product card (Image, Paragraph, Button)
-* Footer (Secondary navigation menu, Paragraph)
 * Page structure (Header, Body, Footer)
-* Homepage (Page structure, with specific content: title, product cards, introductory text, etc.)
+* Homepage (Page structure, with specific content: title, product cards, etc.)
 * Button
 
 ----
