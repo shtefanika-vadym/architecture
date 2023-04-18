@@ -83,12 +83,7 @@
         }
       }
     ],
-    "no-relative-import-paths/no-relative-import-paths": [
-      "error",
-      {
-        "allowSameFolder": true
-      }
-    ],
+    "@typescript-eslint/no-this-alias": "off",
     "react/self-closing-comp": [
       "error",
       {
