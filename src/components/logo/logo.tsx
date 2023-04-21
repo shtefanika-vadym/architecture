@@ -1,5 +1,11 @@
+import Button from 'components/button/button'
+
 const Logo = () => {
-  return <img src='#' alt='Logo' />
+  return (
+    <Button>
+      <img src='#' alt='Logo' />
+    </Button>
+  )
 }
 
 export default Logo
