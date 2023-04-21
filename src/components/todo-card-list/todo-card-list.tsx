@@ -1,7 +1,7 @@
 import type { FC } from 'react'
 
 import { TodoCard } from 'components/todo-card/todo-card'
-import type { ITodo } from 'interfaces/todo.interface'
+import type { ITodo } from 'interfaces/todo-interfaces'
 
 interface IProps {
   todoList: ITodo[]
