@@ -1,5 +1,5 @@
 # Create a structure for the following components using "Atomic Design Architecture"
-![img.png](img.png)
+![atomic.png](atomic.png)
 
 * Label
 * Image
