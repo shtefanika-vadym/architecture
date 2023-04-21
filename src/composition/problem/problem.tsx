@@ -1,4 +1,4 @@
-export const Problem = () => {
+export const PostContent = () => {
   return (
     <div>
       <div>

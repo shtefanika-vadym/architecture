@@ -1,4 +1,4 @@
-import type { FC } from 'react'
+import type { ComponentType, FC } from 'react'
 import { cloneElement, useMemo } from 'react'
 
 import { Elements } from '@stripe/react-stripe-js'

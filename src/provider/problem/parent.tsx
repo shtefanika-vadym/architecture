@@ -1,15 +1,14 @@
 import type { FC } from 'react'
 import { useState } from 'react'
 
-import { THEME_CONSTANTS } from '../theme.type'
-import type { APP_THEME } from '../theme.type'
+import { THEME } from '../theme.type'
 
 interface IProps {
-  theme: APP_THEME
+  theme: THEME
 }
 
 export const Parent = () => {
-  const [theme] = useState<APP_THEME>(THEME_CONSTANTS.DARK)
+  const [theme] = useState<THEME>(THEME.DARK)
   return (
     <div>
       <Child1 theme={theme} />

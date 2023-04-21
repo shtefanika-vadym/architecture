@@ -1,6 +1,4 @@
-export type APP_THEME = 'dark' | 'default'
-
-export enum THEME_CONSTANTS {
+export enum THEME {
   DARK = 'dark',
   DEFAULT = 'default',
 }
